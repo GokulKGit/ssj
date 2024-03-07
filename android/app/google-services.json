@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357173310425",
+    "project_id": "sri-shanmuga-jewellery",
+    "storage_bucket": "sri-shanmuga-jewellery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357173310425:android:cc32ce89216da1c8875fc8",
+        "android_client_info": {
+          "package_name": "com.hts.ssj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0uzUZ57JzfO9KFAtTvXh87xMkyrsrtBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+class LoginUser {
+  final String email;
+  final String password;
+
+  LoginUser({required this.email, required this.password});
+
+  factory LoginUser.fromJson(Map<String, dynamic> json) {
+    return LoginUser(
+      email: json['email_id'],
+      password: json['password'],
+    );
+  }
+}
